@@ -5,5 +5,4 @@ class MessagesController < ApplicationController
 
     render json: @messages
   end
-
 end
